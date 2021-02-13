@@ -374,10 +374,6 @@ a{
     left: 0;
     overflow: block;
 }
-.gallary .container .active{
-    top: 0;
-    left: 0;
-}
 .gallary .text h3{
     font-family: 'Open Sans', sans-serif;
     font-weight: 800;
